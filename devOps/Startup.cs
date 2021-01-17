@@ -15,6 +15,7 @@ namespace devOps
     {
         public Startup(IConfiguration configuration)
         {
+            //comment by Amit Sharm
             Configuration = configuration;
         }
 
